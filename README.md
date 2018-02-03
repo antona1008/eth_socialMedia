@@ -1,2 +1,2 @@
-# eth_socialMedia
-facebook like application with ethereum
+# smart_contract
+
